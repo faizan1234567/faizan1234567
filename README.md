@@ -18,7 +18,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-dark-mode-only)
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
 <br />
 <br />

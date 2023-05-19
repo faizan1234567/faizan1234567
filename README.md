@@ -7,3 +7,12 @@
 - 🌱 I’m currently learning NLP 
 - 👯 I’m looking to collaborate with other developers on AI projects
 - 🥅 2023 Goals: Learn natural language processing and build amazing projects for bussiness 
+
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/EngrFaizan786#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/EngrFaizan786#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-dark-mode-only)

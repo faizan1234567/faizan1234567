@@ -4,9 +4,9 @@
 
 ## I'm a Master's Student in Robotics and AI Developer
 
-- 🌱 I’m currently learning NLP 
+- 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate with other developers on AI projects
-- 🥅 2023 Goals: Learn natural language processing and build amazing projects for bussiness 
+- 🥅 2023 Goals: Learn more about NLP, use it to build solutions for the local bussiness problems
 
 ### Connect with me:
 

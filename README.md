@@ -17,10 +17,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-dark-mode-only)
 
-<!-- ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+### Languages and Tools:
+<img src="img/python.png" alt="Python" width="26px" height="26px"> 
 
-<br />
-<br />
-
---- -->
+<!-- [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />] -->

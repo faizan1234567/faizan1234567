@@ -20,15 +20,15 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width= "50px" src="img/python.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="50pxsrc="img/c++.png" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="50pxsrc="img/tf.png" style="padding-right:10px;" />
-<img align="left" alt="Pytorch" width="50pxsrc="img/torch.png" style="padding-right:10px;" />
-<img align="left" alt="numpy" width="50pxsrc="img/numpy.png" style="padding-right:10px;" />
-<img align="left" alt="matplotlib" width="50pxsrc="img/matplotlib.png" style="padding-right:10px;" />
-<img align="left" alt="git" width="50pxsrc="img/git.png" style="padding-right:10px;" />
-<img align="left" alt="docker" width="50pxsrc="img/docker.png" style="padding-right:10px;" />
-<img align="left" alt="Sklearn" width="50pxsrc="img/sklearn.png" style="padding-right:10px;" />
-<img align="left" alt="opencv" width="50pxsrc="img/cv.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="50px" src="img/c++.png" style="padding-right:10px;" />
+<img align="left" alt="TensorFlow" width="50px" src="img/tf.png" style="padding-right:10px;" />
+<img align="left" alt="Pytorch" width="50px" src="img/torch.png" style="padding-right:10px;" />
+<img align="left" alt="numpy" width="50px" src="img/numpy.png" style="padding-right:10px;" />
+<img align="left" alt="matplotlib" width="50px" src="img/matplotlib.png" style="padding-right:10px;" />
+<img align="left" alt="git" width="50px" src="img/git.png" style="padding-right:10px;" />
+<img align="left" alt="docker" width="50px" src="img/docker.png" style="padding-right:10px;" />
+<img align="left" alt="Sklearn" width="50px" src="img/sklearn.png" style="padding-right:10px;" />
+<img align="left" alt="opencv" width="50px" src="img/cv.png" style="padding-right:10px;" />
 
 
 

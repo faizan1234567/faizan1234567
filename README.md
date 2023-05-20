@@ -31,12 +31,12 @@
 <img align="left" alt="Sklearn" width="50px" src="img/sklearn.png" style="padding-right:10px;" />
 <img align="left" alt="opencv" width="50px" src="img/cv.png" style="padding-right:10px;" />
 
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical&align=center)
+<!-- ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- (https://github.com/anuraghazra/github-readme-stats)
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true)
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true)
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&theme=radical) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs) -->
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=radical&layout=compact" />
+</div>

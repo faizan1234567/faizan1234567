@@ -36,7 +36,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=radical&layout=compact" />
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>

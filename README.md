@@ -31,9 +31,9 @@
 <img align="left" alt="opencv" width="50px" src="img/cv.png" style="padding-right:10px;" />
 
 
-[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical)]
+<!-- (https://github.com/anuraghazra/github-readme-stats)
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true)
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true)
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&theme=radical)
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&theme=radical) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs) -->

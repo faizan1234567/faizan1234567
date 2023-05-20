@@ -18,6 +18,6 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-dark-mode-only)
 
 ### Languages and Tools:
-<!-- <img src="img/python.png" alt="Python" width="26px" height="26px">  -->
 
 <img align="left" alt="Python" width="26px" src="img/python.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="img/c++.png" style="padding-right:10px;" />

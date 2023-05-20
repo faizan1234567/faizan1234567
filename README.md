@@ -20,4 +20,4 @@
 ### Languages and Tools:
 <!-- <img src="img/python.png" alt="Python" width="26px" height="26px">  -->
 
-[<img align="left" alt="Python" width="26px" src="img/python.png" style="padding-right:10px;" />]
+<img align="left" alt="Python" width="26px" src="img/python.png" style="padding-right:10px;" />

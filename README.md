@@ -21,3 +21,14 @@
 
 <img align="left" alt="Python" width="26px" src="img/python.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="img/c++.png" style="padding-right:10px;" />
+<img align="left" alt="TensorFlow" width="26px" src="img/tf.png" style="padding-right:10px;" />
+<img align="left" alt="Pytorch" width="26px" src="img/torch.png" style="padding-right:10px;" />
+<img align="left" alt="numpy" width="26px" src="img/numpy.png" style="padding-right:10px;" />
+<img align="left" alt="matplotlib" width="26px" src="img/matplotlib.png" style="padding-right:10px;" />
+<img align="left" alt="git" width="26px" src="img/git.png" style="padding-right:10px;" />
+<img align="left" alt="docker" width="26px" src="img/docker.png" style="padding-right:10px;" />
+<img align="left" alt="Sklearn" width="26px" src="img/sklearn.png" style="padding-right:10px;" />
+<img align="left" alt="opencv" width="26px" src="img/cv.png" style="padding-right:10px;" />
+
+
+

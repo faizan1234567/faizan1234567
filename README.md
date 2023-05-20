@@ -33,6 +33,9 @@
 
 
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- (https://github.com/anuraghazra/github-readme-stats)
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true)
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true)

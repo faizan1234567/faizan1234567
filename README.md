@@ -22,7 +22,7 @@
 <img align="left" alt="Python" width= "50px" src="img/python.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="50px" src="img/c++.png" style="padding-right:10px;" />
 <img align="left" alt="TensorFlow" width="50px" src="img/tf.png" style="padding-right:10px;" />
-<img align="left" alt="Pytorch" width="50px" src="img/torch.png" style="padding-right:10px;" />
+<img align="left" alt="Pytorch" width="80px" src="img/torch.png" style="padding-right:10px;" />
 <img align="left" alt="numpy" width="80px" src="img/numpy.png" style="padding-right:10px;" />
 <img align="left" alt="matplotlib" width="80px" src="img/matplotlib.png" style="padding-right:10px;" />
 <img align="left" alt="git" width="50px" src="img/git.png" style="padding-right:10px;" />

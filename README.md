@@ -35,9 +35,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-
-## Github Stats
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical&hide_border=true" /></div>
 
 ### GitHub Languages

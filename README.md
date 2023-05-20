@@ -30,8 +30,6 @@
 <img align="left" alt="docker" width="50px" src="img/docker.png" style="padding-right:10px;" />
 <img align="left" alt="Sklearn" width="50px" src="img/sklearn.png" style="padding-right:10px;" />
 <img align="left" alt="opencv" width="50px" src="img/cv.png" style="padding-right:10px;" />
-
-
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical&align=left)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)

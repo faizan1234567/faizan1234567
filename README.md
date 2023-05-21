@@ -26,9 +26,9 @@
 <img align="left" alt="Pytorch" width="80px" src="img/torch.png" style="padding-right:10px;" />
 <img align="left" alt="numpy" width="80px" src="img/numpy.png" style="padding-right:10px;" />
 <img align="left" alt="matplotlib" width="80px" src="img/matplotlib.png" style="padding-right:10px;" />
-<img align="left" alt="git" width="60px" src="img/git.png" style="padding-right:10px;" />
-<img align="left" alt="docker" width="70px" src="img/docker.png" style="padding-right:10px;" />
-<img align="left" alt="Sklearn" width="70px" src="img/sklearn.png" style="padding-right:10px;" />
+<img align="left" alt="git" width="50px" src="img/git.png" style="padding-right:10px;" />
+<img align="left" alt="docker" width="60px" src="img/docker.png" style="padding-right:10px;" />
+<img align="left" alt="Sklearn" width="60px" src="img/sklearn.png" style="padding-right:10px;" />
 <img align="left" alt="opencv" width="60px" src="img/cv.png" style="padding-right:10px;" /></div>
 
 <!-- ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical)

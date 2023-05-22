@@ -33,7 +33,7 @@
     <img align="left" alt="opencv" width="60px" src="img/cv.png" style="padding-right:10px;" />
 <div>
 
-## 
+## __
 
 ### My Github Stats
 

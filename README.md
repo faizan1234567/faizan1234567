@@ -20,24 +20,24 @@
 
 ### Languages and Tools:
 <div>
-<img align="left" alt="Python" width= "50px" src="img/python.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="50px" src="img/c++.png" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="50px" src="img/tf.png" style="padding-right:10px;" />
-<img align="left" alt="Pytorch" width="80px" src="img/torch.png" style="padding-right:10px;" />
-<img align="left" alt="numpy" width="80px" src="img/numpy.png" style="padding-right:10px;" />
-<img align="left" alt="matplotlib" width="80px" src="img/matplotlib.png" style="padding-right:10px;" />
-<img align="left" alt="git" width="50px" src="img/git.png" style="padding-right:10px;" />
-<img align="left" alt="docker" width="60px" src="img/docker.png" style="padding-right:10px;" />
-<img align="left" alt="Sklearn" width="60px" src="img/sklearn.png" style="padding-right:10px;" />
-<img align="left" alt="opencv" width="60px" src="img/cv.png" style="padding-right:10px;" /></div>
+    <img align="left" alt="Python" width= "50px" src="img/python.png" style="padding-right:10px;" />
+    <img align="left" alt="C++" width="50px" src="img/c++.png" style="padding-right:10px;" />
+    <img align="left" alt="TensorFlow" width="50px" src="img/tf.png" style="padding-right:10px;" />
+    <img align="left" alt="Pytorch" width="80px" src="img/torch.png" style="padding-right:10px;" />
+    <img align="left" alt="numpy" width="80px" src="img/numpy.png" style="padding-right:10px;" />
+    <img align="left" alt="matplotlib" width="80px" src="img/matplotlib.png" style="padding-right:10px;" />
+    <img align="left" alt="git" width="50px" src="img/git.png" style="padding-right:10px;" />
+    <img align="left" alt="docker" width="60px" src="img/docker.png" style="padding-right:10px;" />
+    <img align="left" alt="Sklearn" width="60px" src="img/sklearn.png" style="padding-right:10px;" />
+    <img align="left" alt="opencv" width="60px" src="img/cv.png" style="padding-right:10px;" />
 <div>
 
 ### Git Stats
 <div>
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical&hide_border=true" /></div>
+    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical&hide_border=true" />
 <div>
 
 ### GitHub Languages
 <div>
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=radical&langs_count=8&layout=compact&hide_border=true" />
 <div>

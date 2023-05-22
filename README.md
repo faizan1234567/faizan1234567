@@ -19,7 +19,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-dark-mode-only)
 
 ### Languages and Tools:
-
+<div>
 <img align="left" alt="Python" width= "50px" src="img/python.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="50px" src="img/c++.png" style="padding-right:10px;" />
 <img align="left" alt="TensorFlow" width="50px" src="img/tf.png" style="padding-right:10px;" />
@@ -30,17 +30,14 @@
 <img align="left" alt="docker" width="60px" src="img/docker.png" style="padding-right:10px;" />
 <img align="left" alt="Sklearn" width="60px" src="img/sklearn.png" style="padding-right:10px;" />
 <img align="left" alt="opencv" width="60px" src="img/cv.png" style="padding-right:10px;" /></div>
-
-<!-- ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
+<div>
 
 ### Git Stats
+<div>
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&count_private=true&show_icons=true&theme=radical&hide_border=true" /></div>
+<div>
 
 ### GitHub Languages
+<div>
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
-
+<div>

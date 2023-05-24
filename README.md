@@ -46,3 +46,15 @@
 <div>
     <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=radical&langs_count=8&layout=compact&hide_border=true" />
 <div>
+
+
+### Blog Posts
+1. [How to start your AI career](https://medium.com/@engr_faizan_ml/how-to-start-your-ai-career-e0d12dc7cc4f)
+2. [Machine Learning Strategies Part 01: Machine Learning](https://medium.com/@engr_faizan_ml/machine-learning-strategies-286d74a0d0bd)
+3. [Machine Learning Strategies Part 02: Dataset](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-2-959eb876b141)
+4. [Machine Learning Strategies Part 03: A single number evaluation metric](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-3-a-single-number-evaluation-metric-dac45ff55c45)
+5. [Machine Learning Strategies Part 04: Basic error analysis](https://medium.com/mlearning-ai/machine-learning-strategies-part-04-basic-error-analysis-7a38cf0154b1)
+6. [Machine Learning Strategies Part 05: Bias and Variance](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-05-bias-and-variance-621e9d21811)
+7. [Machine Learning Strategies Part 06: Comparing to the optimal error rate](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-06-comparing-to-the-optimal-error-rate-3685baa4e029)
+8. [Machine Learning Strategies Part 07: Addressing Bias and Variance](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-07-addressing-bias-and-variance-b1974e525d38)
+9. [Machine Learning Strategies Part 08: Learning Curve](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-08-learning-curve-832312f7c198)

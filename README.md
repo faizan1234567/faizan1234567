@@ -58,3 +58,16 @@
 7. [Machine Learning Strategies Part 06: Comparing to the optimal error rate](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-06-comparing-to-the-optimal-error-rate-3685baa4e029)
 8. [Machine Learning Strategies Part 07: Addressing Bias and Variance](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-07-addressing-bias-and-variance-b1974e525d38)
 9. [Machine Learning Strategies Part 08: Learning Curve](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-08-learning-curve-832312f7c198)
+
+### Certifications
+1. [AI for everyone](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6)
+2. [Mathematics for machine learning: multivariate calculus](https://www.coursera.org/account/accomplishments/certificate/F89VBDTLRUNY)
+3. [Mathematics for machine learning: linear algebra](https://www.coursera.org/account/accomplishments/certificate/FJDM4WEDKAMS)
+4. [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=051755cf-4149-4122-a948-688abf2012f4&)
+5. [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/J9JGV57EN7JZ)
+6. [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KBM9GR7WU5UJ)
+7. [TensorFlow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TNR7XP37MY6V)
+8. [Custom models, layers, and loss functions with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/H4ZG24SLMPH8)
+9. [Custom and distributed training with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/6EET8W6FEBE6)
+10. [AI for medical diagnosis](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6)
+11. [Writing: grammar and punctuation](https://www.coursera.org/account/accomplishments/certificate/ZBU8KHPZZ5HW)

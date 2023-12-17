@@ -1,67 +1,42 @@
-# Hi there, I'm Faizan 👋 
+<h1 align="center">Hi 👋, I'm Faizan</h1>
+<h3 align="center">A passionate AI developer from Pakistan.</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207.")
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/faizan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EngrFaizan786)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan1234567&label=Profile%20views&color=0e75b6&style=flat" alt="faizan1234567" /> </p>
 
-## I'm a Master's Student in Robotics and AI Developer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan1234567" alt="faizan1234567" /></a> </p>
 
-- 🌱 I’m currently learning MLOps
-- 👯 I’m looking to collaborate with other developers on AI projects
-- 🌱 Over 2 years of experience working as a Machine learning and computer vision developer
-- 🥅 2023 Goals: Learn more about LLMs, use it to build solutions for the local bussiness problems
+<p align="left"> <a href="https://twitter.com/engrfaizan786" target="blank"><img src="https://img.shields.io/twitter/follow/engrfaizan786?logo=twitter&style=for-the-badge" alt="engrfaizan786" /></a> </p>
 
-### Connect with me:
+- 🔭 I’m currently working on [Hybrid Deep Learning based architecture design for multimodal brain MRI scans for Tumor segmentation](https://github.com/faizan1234567/BraTS23-Tumors-Segmentation)
 
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/EngrFaizan786#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/EngrFaizan786#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/#gh-dark-mode-only)
+- 🌱 I’m currently learning **SLAM and Generative AI**
 
-### Languages and Tools:
+- 👯 I’m looking to collaborate on [Recognition and Gradient based localization in Chest radiographs and explainable AI](https://github.com/faizan1234567/Recognition-and-gradient-based-localization-of-chest-radiographs)
 
-<div>
-    <img align="left" alt="Python" width= "50px" src="img/python.png" style="padding-right:10px;" />
-    <img align="left" alt="C++" width="50px" src="img/c++.png" style="padding-right:10px;" />
-    <img align="left" alt="TensorFlow" width="50px" src="img/tf.png" style="padding-right:10px;" />
-    <img align="left" alt="Pytorch" width="80px" src="img/torch.png" style="padding-right:10px;" />
-    <img align="left" alt="numpy" width="80px" src="img/numpy.png" style="padding-right:10px;" />
-    <img align="left" alt="matplotlib" width="80px" src="img/matplotlib.png" style="padding-right:10px;" />
-    <img align="left" alt="git" width="50px" src="img/git.png" style="padding-right:10px;" />
-    <img align="left" alt="docker" width="60px" src="img/docker.png" style="padding-right:10px;" />
-    <img align="left" alt="Sklearn" width="60px" src="img/sklearn.png" style="padding-right:10px;" />
-    <img align="left" alt="opencv" width="60px" src="img/cv.png" style="padding-right:10px;" />
-<div>
+- 🤝 I’m looking for help with [Development of a chatbot for SINES using RAG](https://github.com/faizan1234567/sentiment_analysis_and_text_generation)
 
-## __
-    
-### GitHub Languages
+- 📝 I regularly write articles on [https://medium.com/@engr_faizan_ml](https://medium.com/@engr_faizan_ml)
 
-<div>
-    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan1234567&theme=radical&langs_count=8&layout=compact&hide_border=true" />
-<div>
+- 💬 Ask me about **Deep Learning, Computer Vision, and LLM**
 
+- 📫 How to reach me **engrfaizan.ai@gmail.com**
 
-### Blog Posts
-01. [How to start your AI career](https://medium.com/@engr_faizan_ml/how-to-start-your-ai-career-e0d12dc7cc4f)
-02. [Machine Learning Strategies Part 01: Machine Learning](https://medium.com/@engr_faizan_ml/machine-learning-strategies-286d74a0d0bd)
-03. [Machine Learning Strategies Part 02: Dataset](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-2-959eb876b141)
-04. [Machine Learning Strategies Part 03: A single number evaluation metric](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-3-a-single-number-evaluation-metric-dac45ff55c45)
-05. [Machine Learning Strategies Part 04: Basic error analysis](https://medium.com/mlearning-ai/machine-learning-strategies-part-04-basic-error-analysis-7a38cf0154b1)
-06. [Machine Learning Strategies Part 05: Bias and Variance](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-05-bias-and-variance-621e9d21811)
-07. [Machine Learning Strategies Part 06: Comparing to the optimal error rate](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-06-comparing-to-the-optimal-error-rate-3685baa4e029)
-08. [Machine Learning Strategies Part 07: Addressing Bias and Variance](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-07-addressing-bias-and-variance-b1974e525d38)
-09. [Machine Learning Strategies Part 08: Learning Curve](https://medium.com/@engr_faizan_ml/machine-learning-strategies-part-08-learning-curve-832312f7c198)
+- 📄 Know about my experiences [https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf](https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf)
 
-### Certifications
-01. [AI for everyone](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6)
-02. [Mathematics for machine learning: multivariate calculus](https://www.coursera.org/account/accomplishments/certificate/F89VBDTLRUNY)
-03. [Mathematics for machine learning: linear algebra](https://www.coursera.org/account/accomplishments/certificate/FJDM4WEDKAMS)
-04. [MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=051755cf-4149-4122-a948-688abf2012f4&)
-05. [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/J9JGV57EN7JZ)
-06. [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KBM9GR7WU5UJ)
-07. [TensorFlow in Practice Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TNR7XP37MY6V)
-08. [Custom models, layers, and loss functions with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/H4ZG24SLMPH8)
-09. [Custom and distributed training with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/6EET8W6FEBE6)
-10. [AI for medical diagnosis](https://www.coursera.org/account/accomplishments/certificate/42YTKKCRKFD6)
-11. [Writing: grammar and punctuation](https://www.coursera.org/account/accomplishments/certificate/ZBU8KHPZZ5HW)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/engrfaizan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engrfaizan786" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-faizan-artificial-intelligence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-faizan-artificial-intelligence" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammad_faizan_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_faizan_123" height="30" width="40" /></a>
+<a href="https://medium.com/engr_faizan_ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="engr_faizan_ml" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan1234567&show_icons=true&locale=en&layout=compact" alt="faizan1234567" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan1234567&show_icons=true&locale=en" alt="faizan1234567" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan1234567&" alt="faizan1234567" /></p>

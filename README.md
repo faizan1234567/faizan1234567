@@ -18,13 +18,13 @@
 
 - 🤝 I’m looking for help with [Development of a chatbot for SINES using RAG](https://github.com/faizan1234567/sentiment_analysis_and_text_generation)
 
-- 📝 I regularly write articles on [https://medium.com/@engr_faizan_ml](https://medium.com/@engr_faizan_ml)
+- 📝 I regularly write articles on [medium](https://medium.com/@engr_faizan_ml)
 
 - 💬 Ask me about **Deep Learning, Computer Vision, and LLM**
 
 - 📫 How to reach me **engrfaizan.ai@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf](https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/faizan1234567/faizan1234567/blob/main/CV/Faizans_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

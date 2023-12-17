@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/faizan1234567/faizan1234567/blob/main/img/banner.gif)
+[![MasterHead](https://github.com/faizan1234567/faizan1234567/blob/main/img/banner.gif)](https://github.com/faizan1234567/faizan1234567/blob/main/img/banner.gif)
 <h1 align="center">Hi 👋, I'm Faizan</h1>
 <h3 align="center">A passionate AI developer from Pakistan.</h3>
 

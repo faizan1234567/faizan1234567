@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/engrfaizan786" target="blank"><img src="https://img.shields.io/twitter/follow/engrfaizan786?logo=twitter&style=for-the-badge" alt="engrfaizan786" /></a> </p>
 
-- 🔭 I’m currently working on [Hybrid Deep Learning based architecture design for multimodal brain MRI scans for Tumor segmentation](https://github.com/faizan1234567/BraTS23-Tumors-Segmentation)
+- 🔭 I’m currently working on [Hybrid Deep Learning based algorithm for multimodal brain MRI for Tumor segmentation](https://github.com/faizan1234567/BraTS23-Tumors-Segmentation)
 
 - 🌱 I’m currently learning **SLAM and Generative AI**
 

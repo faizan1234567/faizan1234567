@@ -4,7 +4,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,100:A5FECB&height=120&section=header"/>
 </a>](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=25&duration=1500&pause=1000&color=CFFFEE&background=FF121200&center=true&vCenter=true&random=false&width=1000&lines=Hi!+I'm+Faizan;Deep+Learning+Engineer;AI+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=25&duration=1500&pause=1000&color=CFFFEE&background=FF121200&center=true&vCenter=true&random=false&width=1000&lines=Hi!+I'm+Faizan;Deep+Learning+Engineer;LLMs;Medical+Images+Analysis;Vision+Language+Models)](https://git.io/typing-svg)
 
 <br>
 
@@ -26,18 +26,18 @@
 
 <div> 
 <p align="center">
-  <a href="mailto:aahmad.bese21seecs@seecs.edu.pk">
+  <a href="engrfaizan.ai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/ayesh-ahmad-91ab81237/">
+  <a href="https://www.linkedin.com/in/muhammad-faizan-artificial-intelligence/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/+923268891718">
+  <a href="https://wa.me/+923324693400">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
 <p align="center">
-  Feel free to connect with me! I'm always open to exciting opportunities and discussions. Let's chat! 
+ Feel free to connect with me! I'm always open to engaging in exciting opportunities and insightful discussions. Let's connect and collaborate! 
 </p>
 </div>

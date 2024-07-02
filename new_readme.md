@@ -30,7 +30,8 @@
 
 
                                                             |
-| **Education** | ![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)  ![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![DataCamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)  ![Edx Badge](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white) ![Khan Academy Badge](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
+| **Education**      | ![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)  ![Udemy Badge](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![DataCamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)  ![Edx Badge](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white) ![Khan Academy Badge](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
+
 
 <div> 
 <p align="center">

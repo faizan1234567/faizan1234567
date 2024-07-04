@@ -4,7 +4,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,100:A5FECB&height=120&section=header"/>
 </a>](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=25&duration=1500&pause=1000&color=00008B&background=FF121200&center=true&vCenter=true&weight=700&random=false&width=1000&lines=Hi!+I'm+Faizan;Deep+Learning+Engineer;My+Interests:;LLMs;Medical+Images+Analysis;Vision+Language+Models;And+Embedded+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&size=25&duration=1500&pause=1000&color=006400&background=FF121200&center=true&vCenter=true&weight=700&random=false&width=1000&lines=Hi!+I'm+Faizan;Deep+Learning+Engineer;My+Interests:;LLMs;Medical+Images+Analysis;Vision+Language+Models;And+Embedded+AI)](https://git.io/typing-svg)
 
 
 

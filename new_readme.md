@@ -8,7 +8,7 @@
 
 <br>
 
-#### <span style="color:blue">I specialize in Deep Learning and Embedded Software. I'm passionate about vision-language models, medical image analysis, large language models, and research</span>
+#### <span style="color:blue">I specialize in Deep Learning, Robotics, and Embedded Software. I'm passionate about vision-language models, medical image analysis, large language models, and robot learning.</span>
 
 <br>
 
